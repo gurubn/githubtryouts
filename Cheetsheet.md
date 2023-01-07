@@ -45,3 +45,7 @@ https://daringfireball.net/projects/markdown/syntax
 * git branch [Branch name]
 * git checkout [Branch name]
 * git push -u [origin] [branch]
+
+### Examples
+git push -u origin add-more-instruns
+git branch -r = show all branchs connected with repo
