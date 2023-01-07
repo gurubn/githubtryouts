@@ -34,3 +34,6 @@ git commit -m "comment"
 git push origin main
 
 # Additional change added in github directly
+
+# Git pull
+git pull - It pulls and merges code if any changes
