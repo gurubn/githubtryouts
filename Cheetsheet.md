@@ -28,12 +28,16 @@ $ ls -al ~/.ssh
 $ ssh-keygen -t rsa -b 4096 -C "bngurudatt@gmail.com"
 
 # Git clone
-git clone "https or ssh"
-git add .
-git commit -m "comment"
-git push origin main
+* git clone "https or ssh"
+* git add .
+* git commit -m "comment"
+* git push origin main
 
 # Additional change added in github directly
 
 # Git pull
 git pull - It pulls and merges code if any changes
+
+# Markdown syntax link
+https://daringfireball.net/projects/markdown/syntax
+
