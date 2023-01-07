@@ -41,3 +41,7 @@ git pull - It pulls and merges code if any changes
 # Markdown syntax link
 https://daringfireball.net/projects/markdown/syntax
 
+# Git branches
+* git branch [Branch name]
+* git checkout [Branch name]
+* git push -u [origin] [branch]
