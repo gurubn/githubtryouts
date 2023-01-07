@@ -15,7 +15,7 @@ git add "file"'
 # Track all files in the repo
 git add .
 
-# Commit
+# Commitssss
 git commit "file"
 
 git log
@@ -29,3 +29,6 @@ $ ssh-keygen -t rsa -b 4096 -C "bngurudatt@gmail.com"
 
 # Git clone
 git clone "https or ssh"
+git add .
+git commit -m "comment"
+git push origin main
